@@ -1,6 +1,1 @@
-1
-2
--32
-12
-24
--32
+hello this is a file that i have created tejas nanaware
