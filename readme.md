@@ -19,3 +19,4 @@ yacc "filename".y
 cc lex.yy.c y.tab.h -ll  
 ./a.out
 ```
+
