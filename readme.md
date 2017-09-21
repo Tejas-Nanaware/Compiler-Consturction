@@ -1,10 +1,8 @@
-Hello
-
 This repo contains all the lex and yacc programs that I have learnt in Sem VI in the subject System Programming and Compiler Construction.
 
 All the programs are to be run on Linux Platform.
 
-Kindly install flex and bison.
+> Kindly install flex and bison.
 
 For LEX programs.
 lex "filename".l
